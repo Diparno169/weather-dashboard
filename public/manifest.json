@@ -1,0 +1,32 @@
+{
+  "name": "Skyline — Premium Weather Forecast",
+  "short_name": "Skyline",
+  "description": "Beautiful, precise weather forecasts — current conditions, hourly and 5-day outlooks, air quality, and an interactive world map.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#030712",
+  "theme_color": "#030712",
+  "categories": ["weather", "utilities"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

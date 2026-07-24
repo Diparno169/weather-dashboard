@@ -31,7 +31,7 @@ export function Footer() {
               <CloudSun className="h-4 w-4 text-white" />
             </span>
             <span className="text-sm font-medium text-slate-600 dark:text-slate-300">
-              Skyline — premium weather, built with Next.js
+              Skyline — premium weather, built with Diparno(JD)
             </span>
           </div>
           <a
